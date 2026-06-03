@@ -17,10 +17,12 @@ Além do código, possuo experiência sólida em **atendimento ao cliente multis
 
 ### 🧠 Áreas de Estudo & Foco Técnico
 
-Aproveitando a bagagem da minha grade acadêmica e projetos pessoais, busco evoluir constantemente em:
-- **Desenvolvimento Web & UX:** Criação de interfaces responsivas aliando conceitos de *UX Strategy* e *User Experience*.
-- **Core Engineering:** Fundamentos de Estruturas de Computadores, Algoritmos Avançados, Estruturas de Dados e Redes.
-- **Dados & Infraestrutura:** Modelagem de Banco de Dados SQL e Computação em Nuvem.
+Aproveitando a bagagem técnica do meu histórico e os projetos práticos que desenvolvo, meu foco está em:
+
+- **Desenvolvimento Web & UX/UI:** Criação de interfaces responsivas e dinâmicas aplicando estratégias de *User Experience*. Desenvolvi o layout do projeto **FoodSync** (PHP/HTML) e interfaces para sistemas web.
+- **Bancos de Dados & SQL:** Modelagem estruturada e manipulação de dados. 
+- **Engenharia & Arquitetura de Software:** Estudos práticos em arquitetura de sistemas, análise de requisitos e gerenciamento de projetos, com experiência no desenho de fluxos e prototipagem de aplicações móveis..
+- **Projetos Temáticos & Lógica:** Aplicação de lógica de programação (Java, C#, PHP, C) em desafios reais. 
 
 ---
 
