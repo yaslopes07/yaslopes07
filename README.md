@@ -48,7 +48,7 @@ Aproveitando a bagagem técnica do meu histórico e os projetos práticos que de
 
 ### 📊 Estatísticas do GitHub
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yaslopes07&layout=compact&langs_count=7&theme=dracula&hide=html,css" alt="Linguagens mais usadas" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yaslopes07&langs_count=8&theme=dracula" alt="Linguagens mais usadas" />
 
 ---
 
