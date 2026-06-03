@@ -47,8 +47,8 @@ Aproveitando a bagagem da minha grade acadêmica e projetos pessoais, busco evol
 ### 📊 Estatísticas do GitHub
 
 <div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yaslopes07&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas da Yasmin" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaslopes07&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yaslopes07&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas da Yasmin" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yaslopes07&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas" />
 </div>
 
 ---
@@ -64,10 +64,3 @@ Nas horas vagas, sou entusiasta do universo de RPGs (especialmente *Ordem Parano
 - **E-mail:** [yasrochalopes@gmail.com](mailto:yasrochalopes@gmail.com)
 - **Idiomas:** Português (Nativo) 🇧🇷 | Inglês (Intermediário) 🇺🇸
 
-
-
-
-### 📬 Vamos nos conectar?
-
-- **LinkedIn:** [in/yasmin-da-rocha-lopes-b65b35305](https://www.linkedin.com/in/yasmin-da-rocha-lopes-b65b35305)
-- **E-mail:** [Seu E-mail Profissional Aqui]
