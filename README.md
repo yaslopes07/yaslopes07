@@ -48,10 +48,7 @@ Aproveitando a bagagem técnica do meu histórico e os projetos práticos que de
 
 ### 📊 Estatísticas do GitHub
 
-<div align="left">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yaslopes07&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas da Yasmin" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yaslopes07&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas" />
-</div>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yaslopes07&layout=compact&langs_count=7&theme=dracula&hide=html,css" alt="Linguagens mais usadas" />
 
 ---
 
