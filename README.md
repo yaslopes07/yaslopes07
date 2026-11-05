@@ -1,4 +1,4 @@
-# Olá, eu sou a Yasmin Lopes! 💜 👋
+# Olá, eu sou a Yasmin. 💜 👋
 
 Seja bem-vindo(a) ao meu perfil do GitHub! 
 
