@@ -1,36 +1,33 @@
 
-<!-- BANNER -->
 <div align="center">
-  <img src="assets/banner.svg" width="100%" alt="Banner Yasmin Lopes"/>
-</div>
+  <img src="assets/banner.svg" width="100%" alt="Yasmin Lopes"/>
+  
+  <h2>Oi! Eu sou a Yasmin 💜</h2>
+  <p>Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedora em formação</p>
 
-<div align="center">
-
-### Oi! Eu sou a Yasmin 💜
-
-**Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedora em formação**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-9B72CF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasmin-da-rocha-lopes-b65b35305/)
-[![Gmail](https://img.shields.io/badge/Gmail-BB91E8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasrochalopes@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=yaslopes07&color=9B72CF&style=for-the-badge&label=VISITAS)
-
+  <a href="https://www.linkedin.com/in/yasmin-da-rocha-lopes-b65b35305/">
+    <img src="https://img.shields.io/badge/LinkedIn-9B72CF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:yasrochalopes@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-BB91E8?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </div>
 
 ---
 
 ## 🌷 Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas na Universidade Positivo**, em Curitiba/PR, e estou sempre em busca de novos conhecimentos e desafios na tecnologia.
+Sou estudante de **Análise e Desenvolvimento de Sistemas na Universidade Positivo**, em Curitiba/PR, e estou sempre buscando aprender coisas novas e colocar meus conhecimentos em prática.
 
-Meu contato com a programação começou no Ensino Médio, quando cursei Técnico em Desenvolvimento de Sistemas. Desde então, venho explorando diferentes linguagens, desenvolvendo projetos e descobrindo as áreas com as quais mais me identifico.
+Meu interesse pela programação começou no Ensino Médio, quando cursei Técnico em Desenvolvimento de Sistemas. Desde então, venho explorando diferentes linguagens, desenvolvendo projetos e descobrindo cada vez mais as possibilidades da tecnologia.
 
-Também tenho experiência com atendimento ao cliente e suporte multiskill, atuando com voz, chat e e-mail. Essa experiência contribuiu bastante para minha comunicação, organização e capacidade de resolver problemas.
+Também tenho experiência com atendimento ao cliente e suporte multiskill, atuando com voz, chat e e-mail. Essa vivência me ajudou a desenvolver comunicação, organização e facilidade para resolver problemas.
 
 Acredito que tecnologia vai muito além de escrever código: é sobre criar soluções que façam sentido para as pessoas. ✨
 
 ---
 
-## 🎓 Formação
+## 🎓 Formação acadêmica
 
 📚 **Análise e Desenvolvimento de Sistemas**  
 Universidade Positivo  
@@ -44,24 +41,23 @@ Concluído em Dezembro de 2024
 
 ## 💻 Tecnologias e ferramentas
 
-Tecnologias que já utilizei em estudos e projetos:
-
 <div align="center">
 
-**Linguagens de programação**
+### Linguagens de programação
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
 
-**Desenvolvimento Web**
+### Desenvolvimento Web
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
-**Banco de dados e ferramentas**
+### Banco de dados e ferramentas
 
 <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -72,25 +68,17 @@ Tecnologias que já utilizei em estudos e projetos:
 
 ---
 
-## 🚀 Projetos em destaque
+## 🚀 Projetos
 
-Alguns projetos que fazem parte da minha jornada na programação:
+Gosto de colocar meus conhecimentos em prática e desenvolver projetos que me ajudam a evoluir na programação.
 
-<div align="center">
+### 🍔 FoodSync
 
-<a href="https://github.com/yaslopes07/NOME-DO-REPOSITORIO">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yaslopes07&repo=NOME-DO-REPOSITORIO&theme=dracula&hide_border=true" />
-</a>
+Projeto de aplicação web desenvolvido com **PHP e HTML**, envolvendo criação de interfaces e organização de funcionalidades.
 
-</div>
+🔗 [Conheça meus repositórios](https://github.com/yaslopes07?tab=repositories)
 
-**🍔 FoodSync**
-
-Projeto de aplicação web desenvolvido com PHP e HTML, envolvendo a criação de interfaces e a organização de funcionalidades.
-
-*Em breve, mais projetos e experiências por aqui!*
-
-> Dica: substitua `NOME-DO-REPOSITORIO` pelo nome real do repositório do FoodSync. Se ele tiver outro nome, ajuste também o texto e a descrição acima.
+*Mais projetos e experiências em breve! 💜*
 
 ---
 
@@ -98,35 +86,23 @@ Projeto de aplicação web desenvolvido com PHP e HTML, envolvendo a criação d
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=yaslopes07&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=yaslopes07&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Estatísticas do GitHub"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaslopes07&layout=compact&langs_count=8&theme=dracula&hide_border=true"/>
-
-<br/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=yaslopes07&theme=dracula&hide_border=true&locale=pt_BR"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaslopes07&layout=compact&langs_count=8&theme=dracula&hide_border=true" alt="Linguagens mais utilizadas"/>
 
 </div>
 
 ---
 
-## 📈 Minha atividade
+## 🎮 Um pouquinho sobre mim
 
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yaslopes07&bg_color=282a36&color=d6b3ff&line=bd93f9&point=ff79c6&area=true&hide_border=true" />
-
-</div>
-
----
-
-## 🎮 Um pouquinho além da programação
+Nem só de programação vive uma desenvolvedora!
 
 Quando não estou estudando ou desenvolvendo algum projeto, provavelmente estou:
 
 - 🎲 Explorando o universo de RPGs, especialmente Ordem Paranormal.
 - 🎬 Assistindo animes como Fullmetal Alchemist e Shingeki no Kyojin.
-- 🎧 Ouvindo música — de Taylor Swift e MARINA até Måneskin e AC/DC.
+- 🎧 Ouvindo música, de Taylor Swift e MARINA até Måneskin e AC/DC.
 - 💜 Descobrindo coisas novas e aprendendo algo diferente.
 
 ---
@@ -140,11 +116,19 @@ Quando não estou estudando ou desenvolvendo algum projeto, provavelmente estou:
 
 <div align="center">
 
-### 💌 Vamos trocar ideias?
+## 💌 Vamos nos conectar?
 
-Estou sempre aberta a conhecer pessoas, compartilhar experiências e aprender coisas novas!
+Estou sempre aberta a conhecer pessoas, trocar experiências e conversar sobre tecnologia!
 
-[![LinkedIn](https://img.shields.io/badge/Me_encontre_no_LinkedIn-9B72CF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasmin-da-rocha-lopes-b65b35305/)
+<a href="https://www.linkedin.com/in/yasmin-da-rocha-lopes-b65b35305/">
+  <img src="https://img.shields.io/badge/Meu_LinkedIn-9B72CF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:yasrochalopes@gmail.com">
+  <img src="https://img.shields.io/badge/Entre_em_contato-BB91E8?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
 
 **Obrigada por visitar meu perfil!** 💜
 
