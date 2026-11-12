@@ -67,39 +67,6 @@ Concluído em Dezembro de 2024
 </div>
 
 ---
-
-
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<!-- Estatísticas gerais -->
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=yaslopes07&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true"
-alt="Estatísticas do GitHub"/>
-
-<!-- Linguagens mais utilizadas -->
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaslopes07&layout=compact&langs_count=8&theme=dracula&hide_border=true"
-alt="Linguagens mais utilizadas"/>
-
-<br/><br/>
-
-<!-- Sequência de contribuições -->
-<img width="70%"
-src="https://streak-stats.demolab.com?user=yaslopes07&theme=dracula&hide_border=true"
-alt="Sequência de contribuições"/>
-
-<br/><br/>
-
-<!-- Visitas ao perfil -->
-<img src="https://komarev.com/ghpvc/?username=yaslopes07&color=BD93F9&style=for-the-badge&label=VISITAS+AO+PERFIL"
-alt="Visitas ao perfil"/>
-
-</div>
-
-
 ---
 
 ## 🎮 Um pouquinho sobre mim
