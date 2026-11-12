@@ -107,6 +107,4 @@ Estou sempre aberta a conhecer pessoas, trocar experiências e conversar sobre t
 
 **Obrigada por visitar meu perfil!** 💜
 
-<sub>Feito com carinho por Yasmin Lopes ✨</sub>
-
 </div>
