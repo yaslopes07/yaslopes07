@@ -1,0 +1,19 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#21152F"/>
+      <stop offset="55%" stop-color="#49305F"/>
+      <stop offset="100%" stop-color="#171321"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="24" fill="url(#bg)"/>
+  <circle cx="1030" cy="90" r="170" fill="#A879D9" opacity=".12"/>
+  <circle cx="1100" cy="250" r="120" fill="#E0B8FF" opacity=".08"/>
+  <text x="90" y="115" fill="#EBD9FF" font-family="Arial" font-size="25" letter-spacing="5">HELLO, WORLD!</text>
+  <text x="85" y="180" fill="#FFFFFF" font-family="Arial" font-size="66" font-weight="bold">Yasmin Lopes</text>
+  <text x="90" y="225" fill="#D6B3FF" font-family="Arial" font-size="23">Desenvolvedora em formação • ADS</text>
+  <text x="950" y="170" fill="#E0B8FF" font-family="monospace" font-size="100">{ }</text>
+  <circle cx="950" cy="65" r="5" fill="#E0B8FF"/>
+  <circle cx="1090" cy="220" r="7" fill="#BD93F9"/>
+</svg>
