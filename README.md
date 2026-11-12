@@ -68,15 +68,26 @@ Concluído em Dezembro de 2024
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Meu GitHub
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yaslopes07&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Estatísticas do GitHub"/>
+<a href="https://github.com/yaslopes07">
+  <img src="https://img.shields.io/badge/GitHub-yaslopes07-9B72CF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaslopes07&layout=compact&langs_count=8&theme=dracula&hide_border=true" alt="Linguagens mais utilizadas"/>
+<img src="https://img.shields.io/github/followers/yaslopes07?style=for-the-badge&color=9B72CF&label=Seguidores"/>
+
+<img src="https://img.shields.io/github/stars/yaslopes07?style=for-the-badge&color=BB91E8&label=Estrelas"/>
+
+<br/><br/>
+
+<a href="https://github.com/yaslopes07?tab=repositories">
+  <img src="https://img.shields.io/badge/Explorar%20meus%20projetos-Confira%20meus%20repositórios-BB91E8?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
+
 
 ---
 
