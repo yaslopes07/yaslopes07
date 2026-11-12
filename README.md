@@ -68,20 +68,6 @@ Concluído em Dezembro de 2024
 
 ---
 
-## 🚀 Projetos
-
-Gosto de colocar meus conhecimentos em prática e desenvolver projetos que me ajudam a evoluir na programação.
-
-### 🍔 FoodSync
-
-Projeto de aplicação web desenvolvido com **PHP e HTML**, envolvendo criação de interfaces e organização de funcionalidades.
-
-🔗 [Conheça meus repositórios](https://github.com/yaslopes07?tab=repositories)
-
-*Mais projetos e experiências em breve! 💜*
-
----
-
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
