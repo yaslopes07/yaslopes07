@@ -1,65 +1,153 @@
-# Olá, eu sou a Yasmin. 💜 👋
 
-Seja bem-vindo(a) ao meu perfil do GitHub! 
+<!-- BANNER -->
+<div align="center">
+  <img src="assets/banner.svg" width="100%" alt="Banner Yasmin Lopes"/>
+</div>
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas, pela Universidade Positivo**, residente em Curitiba/PR e apaixonada por transformar lógica em soluções reais. Minha trajetória na tecnologia começou cedo, no **Ensino Médio Técnico em Desenvolvimento de Sistemas**, e hoje sigo me aprimorando na graduação superior. 
+<div align="center">
 
-Além do código, possuo experiência sólida em **atendimento ao cliente multiskill (voz, chat e e-mail)** e suporte, o que me deu uma capacidade afiada de comunicação, resolução de problemas e foco total na experiência do usuário final.
+### Oi! Eu sou a Yasmin 💜
 
----
+**Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedora em formação**
 
-### 🎓 Formação Acadêmica
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-9B72CF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasmin-da-rocha-lopes-b65b35305/)
+[![Gmail](https://img.shields.io/badge/Gmail-BB91E8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasrochalopes@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=yaslopes07&color=9B72CF&style=for-the-badge&label=VISITAS)
 
-- **Técnico Integrado em Desenvolvimento de Sistemas** — Colégio Estadual Pedro Macedo *(Conclusão: Dezembro de 2024)*
-- **Graduação em Análise e Desenvolvimento de Sistemas** — Universidade Positivo *(Previsão de conclusão: Dezembro de 2026)*
-
----
-
-### 🧠 Áreas de Estudo & Foco Técnico
-
-Aproveitando a bagagem técnica do meu histórico e os projetos práticos que desenvolvo, meu foco está em:
-
-- **Desenvolvimento Web & UX/UI:** Criação de interfaces responsivas e dinâmicas aplicando estratégias de *User Experience*. Desenvolvi o layout do projeto **FoodSync** (PHP/HTML) e interfaces para sistemas web.
-- **Bancos de Dados & SQL:** Modelagem estruturada e manipulação de dados. 
-- **Engenharia & Arquitetura de Software:** Estudos práticos em arquitetura de sistemas, análise de requisitos e gerenciamento de projetos, com experiência no desenho de fluxos e prototipagem de aplicações móveis..
-- **Projetos Temáticos & Lógica:** Aplicação de lógica de programação (Java, C#, PHP, C) em desafios reais. 
+</div>
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+## 🌷 Sobre mim
 
-<p align="left">
-  <!-- Linguagens & Back-end -->
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL" />
-  <br>
-  <!-- Front-end & Design -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
+Sou estudante de **Análise e Desenvolvimento de Sistemas na Universidade Positivo**, em Curitiba/PR, e estou sempre em busca de novos conhecimentos e desafios na tecnologia.
+
+Meu contato com a programação começou no Ensino Médio, quando cursei Técnico em Desenvolvimento de Sistemas. Desde então, venho explorando diferentes linguagens, desenvolvendo projetos e descobrindo as áreas com as quais mais me identifico.
+
+Também tenho experiência com atendimento ao cliente e suporte multiskill, atuando com voz, chat e e-mail. Essa experiência contribuiu bastante para minha comunicação, organização e capacidade de resolver problemas.
+
+Acredito que tecnologia vai muito além de escrever código: é sobre criar soluções que façam sentido para as pessoas. ✨
 
 ---
 
-### 📊 Estatísticas do GitHub
+## 🎓 Formação
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yaslopes07&langs_count=8&theme=dracula" alt="Linguagens mais usadas" />
+📚 **Análise e Desenvolvimento de Sistemas**  
+Universidade Positivo  
+Previsão de conclusão: Dezembro de 2026
+
+💻 **Técnico Integrado em Desenvolvimento de Sistemas**  
+Colégio Estadual Pedro Macedo  
+Concluído em Dezembro de 2024
 
 ---
 
-### 🎨 Além das Linhas de Código...
-Nas horas vagas, sou entusiasta do universo de RPGs (especialmente *Ordem Paranormal*), fã de animes como *Fullmetal Alchemist* e *Shingeki no Kyojin*, e apaixonada por música (de Taylor Swift e MARINA a Måneskin e AC/DC).
+## 💻 Tecnologias e ferramentas
+
+Tecnologias que já utilizei em estudos e projetos:
+
+<div align="center">
+
+**Linguagens de programação**
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+**Desenvolvimento Web**
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+**Banco de dados e ferramentas**
+
+<img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
+</div>
 
 ---
 
-### 📬 Vamos nos conectar e trocar ideias?
+## 🚀 Projetos em destaque
 
-- **LinkedIn:** [in/yasmin-da-rocha-lopes-b65b35305](https://www.linkedin.com/in/yasmin-da-rocha-lopes-b65b35305)
-- **E-mail:** [yasrochalopes@gmail.com](mailto:yasrochalopes@gmail.com)
-- **Idiomas:** Português (Nativo) 🇧🇷 | Inglês (Intermediário) 🇺🇸
+Alguns projetos que fazem parte da minha jornada na programação:
 
+<div align="center">
+
+<a href="https://github.com/yaslopes07/NOME-DO-REPOSITORIO">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yaslopes07&repo=NOME-DO-REPOSITORIO&theme=dracula&hide_border=true" />
+</a>
+
+</div>
+
+**🍔 FoodSync**
+
+Projeto de aplicação web desenvolvido com PHP e HTML, envolvendo a criação de interfaces e a organização de funcionalidades.
+
+*Em breve, mais projetos e experiências por aqui!*
+
+> Dica: substitua `NOME-DO-REPOSITORIO` pelo nome real do repositório do FoodSync. Se ele tiver outro nome, ajuste também o texto e a descrição acima.
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=yaslopes07&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaslopes07&layout=compact&langs_count=8&theme=dracula&hide_border=true"/>
+
+<br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=yaslopes07&theme=dracula&hide_border=true&locale=pt_BR"/>
+
+</div>
+
+---
+
+## 📈 Minha atividade
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yaslopes07&bg_color=282a36&color=d6b3ff&line=bd93f9&point=ff79c6&area=true&hide_border=true" />
+
+</div>
+
+---
+
+## 🎮 Um pouquinho além da programação
+
+Quando não estou estudando ou desenvolvendo algum projeto, provavelmente estou:
+
+- 🎲 Explorando o universo de RPGs, especialmente Ordem Paranormal.
+- 🎬 Assistindo animes como Fullmetal Alchemist e Shingeki no Kyojin.
+- 🎧 Ouvindo música — de Taylor Swift e MARINA até Måneskin e AC/DC.
+- 💜 Descobrindo coisas novas e aprendendo algo diferente.
+
+---
+
+## 🌎 Idiomas
+
+- 🇧🇷 Português — Nativo
+- 🇺🇸 Inglês — Intermediário
+
+---
+
+<div align="center">
+
+### 💌 Vamos trocar ideias?
+
+Estou sempre aberta a conhecer pessoas, compartilhar experiências e aprender coisas novas!
+
+[![LinkedIn](https://img.shields.io/badge/Me_encontre_no_LinkedIn-9B72CF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasmin-da-rocha-lopes-b65b35305/)
+
+**Obrigada por visitar meu perfil!** 💜
+
+<sub>Feito com carinho por Yasmin Lopes ✨</sub>
+
+</div>
